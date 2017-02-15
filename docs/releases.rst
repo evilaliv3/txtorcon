@@ -40,6 +40,8 @@ unreleased
  * big revamp / re-write of the documentation, including the new
    `Programming Guide
    <https://txtorcon.readthedocs.io/en/latest/guide.html>`_
+ * new helper: :meth:`txtorcon.Router.get_onionoo_details`_
+ * new helper: :func:`txtorcon.util.create_tbb_web_headers`_
 
 
 v0.18.0
